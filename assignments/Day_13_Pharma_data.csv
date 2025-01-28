@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Region,Marketing_Spend,Sales,Effectiveness,Side_Effects,Age_Group,Trial_Period
+101,PainRelief,North America,50000,100000,85,5,20-30,6 months
+102,ColdCure,Europe,30000,60000,75,2,30-40,3 months
+103,HeadacheFix,Asia,45000,80000,80,3,40-50,6 months
+104,PainRelief,North America,52000,110000,88,4,50-60,12 months
+105,ColdCure,Europe,28000,55000,70,1,30-40,3 months
+106,HeadacheFix,Asia,48000,90000,82,3,40-50,6 months
+107,PainRelief,North America,51000,105000,86,5,20-30,6 months
+108,ColdCure,Europe,31000,65000,78,2,30-40,3 months
+109,HeadacheFix,Asia,47000,85000,80,4,50-60,12 months
+110,PainRelief,North America,53000,115000,90,6,20-30,6 months

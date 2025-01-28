@@ -1,0 +1,21 @@
+Date,Account_Type,Branch,Transaction_Type,Transaction_Amount,Account_Balance
+2023-01-19,Fixed Deposit,Central,Loan Payment,985.51,6839.59
+2023-01-16,Current,Uptown,Withdrawal,641.43,8908.39
+2023-01-10,Current,Uptown,Loan Payment,3363.85,12428.67
+2023-01-18,Savings,Uptown,Loan Payment,1914.6,5776.63
+2023-01-14,Recurring Deposit,Suburban,Loan Payment,2788.57,4779.04
+2023-01-06,Current,Suburban,Service Charge,4584.05,7635.47
+2023-01-04,Recurring Deposit,Central,Service Charge,1621.82,6465.79
+2023-01-09,Current,Central,Loan Payment,2346.72,10708.85
+2023-01-20,Recurring Deposit,Downtown,Service Charge,3899.98,12646.56
+2023-01-11,Fixed Deposit,Downtown,Deposit,1529.59,2592.16
+2023-01-13,Recurring Deposit,Central,Deposit,846.41,6443.14
+2023-01-08,Fixed Deposit,Suburban,Service Charge,1803.88,6560.58
+2023-01-15,Fixed Deposit,Uptown,Service Charge,1225.5,4224.47
+2023-01-05,Recurring Deposit,Central,Loan Payment,4683.64,6762.43
+2023-01-01,Fixed Deposit,Downtown,Withdrawal,4136.54,8175.08
+2023-01-03,Savings,Suburban,Service Charge,3350.32,12836.51
+2023-01-02,Fixed Deposit,Central,Deposit,4421.57,8330.4
+2023-01-07,Current,Central,Loan Payment,4116.52,9785.64
+2023-01-12,Recurring Deposit,Suburban,Service Charge,1339.57,8666.74
+2023-01-17,Savings,Central,Deposit,4516.52,8789.19
