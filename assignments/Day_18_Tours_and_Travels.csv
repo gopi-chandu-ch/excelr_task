@@ -1,0 +1,501 @@
+Booking_ID,Destination,Package_Price,Customer_Age,Rating,Review_Text,Travel_Date
+1,London,1094.0,21.0,3.0,Amazing experience!,2023-01-01
+2,Paris,640.0,20.0,3.0,Loved the trip!,2023-01-02
+3,Singapore,3393.0,42.0,3.0,Could be better,2023-01-03
+4,London,3555.0,40.0,4.0,Amazing experience!,2023-01-04
+5,Dubai,2130.0,44.0,2.0,Highly recommended,2023-01-05
+6,Paris,1376.0,31.0,4.0,Amazing experience!,2023-01-06
+7,London,4705.0,55.0,5.0,Loved the trip!,2023-01-07
+8,New York,3160.0,49.0,4.0,Highly recommended,2023-01-08
+9,Singapore,3890.0,40.0,3.0,Amazing experience!,2023-01-09
+10,New York,2529.0,64.0,3.0,Could be better,2023-01-10
+11,New York,3052.0,57.0,3.0,Amazing experience!,2023-01-11
+12,Dubai,4111.0,54.0,3.0,Amazing experience!,2023-01-12
+13,Dubai,1540.0,20.0,1.0,Amazing experience!,2023-01-13
+14,New York,2802.0,52.0,5.0,Highly recommended,2023-06-02
+15,London,3959.0,30.0,2.0,Highly recommended,2023-01-15
+16,London,4672.0,51.0,5.0,Not worth the money,2023-01-16
+17,Singapore,3525.0,41.0,1.0,Amazing experience!,2023-01-17
+18,Paris,3446.0,18.0,4.0,Highly recommended,2023-01-18
+19,Paris,3736.0,29.0,2.0,Loved the trip!,2023-01-19
+20,Dubai,4180.0,25.0,3.0,Could be better,2023-01-20
+21,New York,3606.0,36.0,4.0,Could be better,2023-01-21
+22,Dubai,2037.0,26.0,2.0,Amazing experience!,2023-01-22
+23,London,4372.0,45.0,4.0,Highly recommended,2023-01-23
+24,Paris,2367.0,31.0,3.0,Loved the trip!,2023-01-24
+25,New York,1661.0,44.0,2.0,Not worth the money,2023-01-25
+26,Singapore,4420.0,35.0,5.0,Not worth the money,2023-01-26
+27,Paris,4382.0,59.0,3.0,Not worth the money,2023-01-27
+28,London,3256.0,58.0,4.0,Amazing experience!,2023-01-28
+29,London,2412.0,23.0,3.0,Loved the trip!,2023-01-29
+30,Paris,764.0,50.0,4.0,Highly recommended,2023-01-30
+31,Paris,4928.0,54.0,3.0,Amazing experience!,2023-01-31
+32,London,2802.0,59.0,2.0,Highly recommended,2023-02-01
+33,Dubai,1694.0,42.0,3.0,Could be better,2023-02-02
+34,New York,2026.0,30.0,3.0,Could be better,2023-02-03
+35,New York,4104.0,40.0,3.0,Loved the trip!,2023-02-04
+36,Paris,4894.0,53.0,4.0,Highly recommended,2023-02-05
+37,Dubai,2748.0,50.0,3.0,Loved the trip!,2023-02-06
+38,Paris,1658.0,38.0,1.0,Loved the trip!,2023-02-07
+39,Dubai,4867.0,42.0,3.0,Loved the trip!,2023-02-08
+40,Dubai,4013.0,53.0,3.0,Loved the trip!,2023-02-09
+41,Dubai,2802.0,34.0,1.0,Amazing experience!,2023-02-10
+42,Singapore,1644.0,27.0,3.0,Amazing experience!,2023-02-11
+43,Singapore,568.0,40.0,1.0,Amazing experience!,2023-06-02
+44,New York,4217.0,61.0,5.0,Could be better,2023-02-13
+45,Singapore,3508.0,19.0,4.0,Could be better,2023-02-14
+46,New York,1326.0,52.0,1.0,Loved the trip!,2023-02-15
+47,Singapore,1669.0,31.0,1.0,Loved the trip!,2023-02-16
+48,Dubai,1483.0,64.0,4.0,Amazing experience!,2023-02-17
+49,Dubai,4477.0,62.0,3.0,Amazing experience!,2023-02-18
+50,New York,3834.0,58.0,4.0,Amazing experience!,2023-02-19
+51,Paris,2840.0,19.0,5.0,Could be better,2023-02-20
+52,New York,2515.0,36.0,3.0,Amazing experience!,2023-02-21
+53,Singapore,1952.0,33.0,2.0,Loved the trip!,2023-02-22
+54,New York,2633.0,60.0,4.0,Could be better,2023-02-23
+55,Paris,1539.0,61.0,5.0,Loved the trip!,2023-02-24
+56,London,4713.0,42.0,3.0,Not worth the money,2023-02-25
+57,Singapore,3966.0,18.0,4.0,Could be better,2023-02-26
+58,Paris,3526.0,19.0,3.0,Amazing experience!,2023-02-27
+59,London,4757.0,65.0,3.0,Could be better,2023-02-28
+60,Singapore,3247.0,44.0,4.0,Amazing experience!,2023-03-01
+61,Singapore,4762.0,19.0,5.0,Amazing experience!,2023-03-02
+62,Paris,4895.0,47.0,4.0,Not worth the money,2023-03-03
+63,Singapore,3995.0,68.0,4.0,Amazing experience!,2023-03-04
+64,London,2802.0,27.0,2.0,Highly recommended,2023-03-05
+65,Dubai,1061.0,36.0,2.0,Amazing experience!,2023-03-06
+66,Dubai,2703.0,59.0,3.0,Amazing experience!,2023-03-07
+67,New York,3919.0,33.0,2.0,Not worth the money,2023-03-08
+68,New York,1644.0,30.0,4.0,Could be better,2023-03-09
+69,Dubai,3199.0,65.0,2.0,Could be better,2023-03-10
+70,Singapore,2051.0,67.0,4.0,Loved the trip!,2023-03-11
+71,Singapore,4521.0,42.0,4.0,Highly recommended,2023-03-12
+72,New York,1060.0,67.0,3.0,Could be better,2023-03-13
+73,Dubai,1687.0,48.0,2.0,Amazing experience!,2023-03-14
+74,Paris,3633.0,62.0,4.0,Amazing experience!,2023-03-15
+75,Dubai,3911.0,42.0,5.0,Amazing experience!,2023-03-16
+76,Singapore,2189.0,42.0,4.0,Highly recommended,2023-03-17
+77,Paris,4907.0,38.0,1.0,Not worth the money,2023-03-18
+78,Paris,2923.0,67.0,1.0,Amazing experience!,2023-03-19
+79,Singapore,1869.0,55.0,3.0,Could be better,2023-03-20
+80,New York,1080.0,58.0,2.0,Amazing experience!,2023-03-21
+81,New York,1476.0,46.0,4.0,Highly recommended,2023-03-22
+82,Dubai,2802.0,23.0,4.0,Highly recommended,2023-03-23
+83,New York,2856.0,35.0,2.0,Amazing experience!,2023-03-24
+84,Dubai,618.0,42.0,3.0,Could be better,2023-03-25
+85,Singapore,2042.0,61.0,2.0,Amazing experience!,2023-03-26
+86,New York,3543.0,52.0,5.0,Amazing experience!,2023-03-27
+87,New York,1472.0,44.0,3.0,Could be better,2023-03-28
+88,New York,1415.0,22.0,4.0,Could be better,2023-03-29
+89,Paris,1937.0,24.0,3.0,Amazing experience!,2023-03-30
+90,Paris,1086.0,27.0,4.0,Amazing experience!,2023-03-31
+91,Singapore,850.0,27.0,3.0,Highly recommended,2023-04-01
+92,London,3062.0,68.0,3.0,Loved the trip!,2023-04-02
+93,Dubai,2370.0,45.0,4.0,Could be better,2023-04-03
+94,Dubai,772.0,53.0,3.0,Could be better,2023-04-04
+95,Paris,3427.0,27.0,2.0,Not worth the money,2023-04-05
+96,Paris,4858.0,67.0,2.0,Could be better,2023-04-06
+97,Singapore,3939.0,52.0,3.0,Amazing experience!,2023-04-07
+98,New York,3541.0,52.0,3.0,Amazing experience!,2023-04-08
+99,Dubai,4448.0,54.0,4.0,Not worth the money,2023-04-09
+100,Singapore,2264.0,65.0,5.0,Amazing experience!,2023-04-10
+101,Paris,4790.0,37.0,1.0,Amazing experience!,2023-04-11
+102,London,2270.0,30.0,2.0,Could be better,2023-04-12
+103,New York,2022.0,28.0,2.0,Amazing experience!,2023-04-13
+104,New York,1331.0,62.0,3.0,Highly recommended,2023-04-14
+105,Dubai,1061.0,36.0,3.0,Loved the trip!,2023-04-15
+106,Paris,4040.0,45.0,4.0,Amazing experience!,2023-04-16
+107,Singapore,4636.0,55.0,2.0,Amazing experience!,2023-04-17
+108,Paris,1979.0,62.0,3.0,Loved the trip!,2023-04-18
+109,Paris,4966.0,21.0,4.0,Could be better,2023-04-19
+110,Singapore,1705.0,54.0,5.0,Not worth the money,2023-04-20
+111,London,1156.0,36.0,5.0,Loved the trip!,2023-04-21
+112,Paris,4440.0,54.0,4.0,Could be better,2023-04-22
+113,New York,1089.0,31.0,5.0,Highly recommended,2023-04-23
+114,Dubai,4826.0,48.0,2.0,Could be better,2023-04-24
+115,Dubai,1871.0,45.0,2.0,Could be better,2023-04-25
+116,Paris,4251.0,53.0,1.0,Not worth the money,2023-04-26
+117,New York,4259.0,61.0,4.0,Amazing experience!,2023-04-27
+118,Dubai,2600.0,55.0,5.0,Loved the trip!,2023-04-28
+119,London,2384.0,36.0,2.0,Not worth the money,2023-04-29
+120,London,1247.0,59.0,3.0,Could be better,2023-04-30
+121,Dubai,963.0,18.0,4.0,Loved the trip!,2023-05-01
+122,Singapore,1253.0,40.0,5.0,Amazing experience!,2023-05-02
+123,Singapore,1082.0,45.0,4.0,Not worth the money,2023-05-03
+124,London,2705.0,65.0,5.0,Amazing experience!,2023-05-04
+125,New York,4614.0,21.0,3.0,Amazing experience!,2023-06-02
+126,New York,4650.0,58.0,3.0,Highly recommended,2023-05-06
+127,Singapore,4527.0,35.0,3.0,Could be better,2023-05-07
+128,Dubai,3853.0,66.0,3.0,Amazing experience!,2023-05-08
+129,Paris,3308.0,64.0,1.0,Could be better,2023-05-09
+130,New York,4103.0,68.0,4.0,Could be better,2023-05-10
+131,Paris,4413.0,56.0,4.0,Loved the trip!,2023-05-11
+132,Paris,1919.0,42.0,4.0,Amazing experience!,2023-05-12
+133,New York,2667.0,35.0,3.0,Amazing experience!,2023-05-13
+134,Paris,2644.0,23.0,3.0,Could be better,2023-05-14
+135,London,2667.0,36.0,3.0,Could be better,2023-05-15
+136,New York,2060.0,29.0,1.0,Amazing experience!,2023-05-16
+137,London,1676.0,42.0,3.0,Could be better,2023-05-17
+138,Singapore,1768.0,52.0,2.0,Could be better,2023-05-18
+139,Dubai,4087.0,18.0,1.0,Amazing experience!,2023-05-19
+140,London,1666.0,22.0,4.0,Highly recommended,2023-05-20
+141,London,4075.0,42.0,3.0,Amazing experience!,2023-05-21
+142,Dubai,3341.0,25.0,5.0,Amazing experience!,2023-05-22
+143,Paris,2370.0,56.0,3.0,Amazing experience!,2023-05-23
+144,Paris,4429.0,64.0,5.0,Loved the trip!,2023-05-24
+145,New York,2767.0,60.0,1.0,Loved the trip!,2023-05-25
+146,Dubai,3386.0,35.0,3.0,Highly recommended,2023-05-26
+147,New York,659.0,63.0,3.0,Could be better,2023-05-27
+148,Paris,3158.0,26.0,4.0,Loved the trip!,2023-05-28
+149,New York,4263.0,22.0,3.0,Highly recommended,2023-05-29
+150,Dubai,1555.0,21.0,2.0,Could be better,2023-06-02
+151,Paris,833.0,61.0,4.0,Amazing experience!,2023-05-31
+152,Dubai,4096.0,46.0,3.0,Could be better,2023-06-01
+153,Paris,1391.0,18.0,1.0,Amazing experience!,2023-06-02
+154,Singapore,3487.0,47.0,3.0,Amazing experience!,2023-06-03
+155,New York,4947.0,62.0,4.0,Not worth the money,2023-06-04
+156,Dubai,1862.0,18.0,2.0,Amazing experience!,2023-06-05
+157,Paris,1425.0,20.0,3.0,Amazing experience!,2023-06-06
+158,London,2943.0,39.0,1.0,Highly recommended,2023-06-07
+159,Dubai,3077.0,25.0,3.0,Could be better,2023-06-08
+160,New York,4480.0,35.0,4.0,Amazing experience!,2023-06-09
+161,Paris,2905.0,42.0,3.0,Could be better,2023-06-10
+162,Paris,1919.0,65.0,3.0,Amazing experience!,2023-06-11
+163,London,3375.0,69.0,1.0,Amazing experience!,2023-06-12
+164,Dubai,559.0,37.0,2.0,Highly recommended,2023-06-13
+165,Paris,3024.0,48.0,2.0,Amazing experience!,2023-06-14
+166,Dubai,4297.0,47.0,3.0,Loved the trip!,2023-06-15
+167,London,3159.0,33.0,3.0,Amazing experience!,2023-06-16
+168,Dubai,4596.0,19.0,5.0,Amazing experience!,2023-06-17
+169,London,2078.0,34.0,1.0,Loved the trip!,2023-06-18
+170,New York,2802.0,27.0,3.0,Highly recommended,2023-06-19
+171,Paris,3605.0,24.0,3.0,Could be better,2023-06-20
+172,Paris,1207.0,59.0,3.0,Highly recommended,2023-06-21
+173,Dubai,2280.0,68.0,4.0,Highly recommended,2023-06-22
+174,London,2913.0,69.0,2.0,Not worth the money,2023-06-23
+175,London,3906.0,26.0,1.0,Amazing experience!,2023-06-24
+176,Singapore,2661.0,34.0,4.0,Amazing experience!,2023-06-25
+177,Singapore,2802.0,26.0,3.0,Amazing experience!,2023-06-26
+178,London,1108.0,26.0,1.0,Amazing experience!,2023-06-27
+179,Singapore,808.0,54.0,2.0,Not worth the money,2023-06-28
+180,Dubai,4807.0,41.0,3.0,Loved the trip!,2023-06-29
+181,London,2864.0,56.0,3.0,Loved the trip!,2023-06-30
+182,Paris,2802.0,28.0,2.0,Could be better,2023-07-01
+183,Singapore,745.0,25.0,3.0,Amazing experience!,2023-07-02
+184,Paris,738.0,42.0,3.0,Amazing experience!,2023-07-03
+185,Paris,1019.0,63.0,3.0,Could be better,2023-07-04
+186,Paris,4407.0,19.0,5.0,Not worth the money,2023-07-05
+187,Dubai,776.0,27.0,1.0,Could be better,2023-07-06
+188,New York,4528.0,41.0,5.0,Not worth the money,2023-07-07
+189,Paris,2802.0,65.0,3.0,Loved the trip!,2023-07-08
+190,Singapore,1105.0,33.0,4.0,Highly recommended,2023-07-09
+191,Dubai,4553.0,36.0,3.0,Amazing experience!,2023-07-10
+192,Dubai,3212.0,48.0,3.0,Loved the trip!,2023-07-11
+193,New York,641.0,28.0,4.0,Amazing experience!,2023-07-12
+194,New York,4161.0,23.0,4.0,Could be better,2023-07-13
+195,Paris,2869.0,23.0,2.0,Loved the trip!,2023-07-14
+196,Paris,2217.0,49.0,2.0,Not worth the money,2023-07-15
+197,London,3927.0,56.0,3.0,Amazing experience!,2023-07-16
+198,Paris,2824.0,65.0,5.0,Amazing experience!,2023-06-02
+199,Singapore,2344.0,30.0,3.0,Loved the trip!,2023-07-18
+200,Paris,899.0,20.0,4.0,Could be better,2023-07-19
+201,Singapore,3063.0,58.0,4.0,Loved the trip!,2023-07-20
+202,Singapore,2022.0,52.0,4.0,Highly recommended,2023-07-21
+203,New York,1834.0,55.0,3.0,Loved the trip!,2023-07-22
+204,Singapore,2802.0,34.0,3.0,Not worth the money,2023-07-23
+205,Paris,2802.0,20.0,5.0,Not worth the money,2023-07-24
+206,New York,3715.0,51.0,4.0,Highly recommended,2023-07-25
+207,New York,4147.0,29.0,4.0,Loved the trip!,2023-07-26
+208,Paris,2116.0,41.0,3.0,Amazing experience!,2023-07-27
+209,Dubai,2929.0,23.0,4.0,Could be better,2023-07-28
+210,Dubai,4152.0,59.0,2.0,Highly recommended,2023-07-29
+211,New York,2221.0,28.0,2.0,Amazing experience!,2023-07-30
+212,Paris,1772.0,65.0,4.0,Loved the trip!,2023-07-31
+213,Singapore,3639.0,44.0,3.0,Highly recommended,2023-08-01
+214,Paris,3378.0,65.0,4.0,Loved the trip!,2023-08-02
+215,Dubai,2035.0,41.0,2.0,Could be better,2023-08-03
+216,Singapore,1035.0,35.0,3.0,Amazing experience!,2023-08-04
+217,Dubai,1448.0,44.0,3.0,Could be better,2023-08-05
+218,London,3142.0,58.0,3.0,Amazing experience!,2023-08-06
+219,Paris,4441.0,38.0,2.0,Highly recommended,2023-08-07
+220,New York,1521.0,68.0,4.0,Not worth the money,2023-08-08
+221,Paris,933.0,51.0,4.0,Not worth the money,2023-08-09
+222,Singapore,1903.0,42.0,2.0,Could be better,2023-08-10
+223,New York,4011.0,65.0,3.0,Amazing experience!,2023-08-11
+224,Paris,3435.0,35.0,4.0,Could be better,2023-08-12
+225,London,4764.0,20.0,4.0,Could be better,2023-08-13
+226,Paris,3833.0,41.0,4.0,Loved the trip!,2023-08-14
+227,London,2102.0,18.0,4.0,Loved the trip!,2023-08-15
+228,London,728.0,23.0,3.0,Could be better,2023-08-16
+229,London,4717.0,36.0,3.0,Loved the trip!,2023-08-17
+230,New York,2696.0,39.0,2.0,Highly recommended,2023-08-18
+231,London,3399.0,68.0,2.0,Could be better,2023-08-19
+232,New York,610.0,60.0,4.0,Loved the trip!,2023-08-20
+233,Singapore,1744.0,25.0,1.0,Amazing experience!,2023-08-21
+234,New York,4659.0,22.0,5.0,Loved the trip!,2023-08-22
+235,New York,3185.0,69.0,4.0,Amazing experience!,2023-08-23
+236,New York,4301.0,26.0,4.0,Loved the trip!,2023-08-24
+237,London,4367.0,64.0,3.0,Could be better,2023-08-25
+238,Paris,1877.0,38.0,3.0,Amazing experience!,2023-08-26
+239,Paris,2271.0,45.0,4.0,Highly recommended,2023-08-27
+240,London,512.0,63.0,2.0,Amazing experience!,2023-08-28
+241,New York,4834.0,21.0,1.0,Could be better,2023-08-29
+242,Singapore,3761.0,41.0,4.0,Loved the trip!,2023-08-30
+243,Paris,1162.0,25.0,1.0,Could be better,2023-08-31
+244,Paris,3592.0,69.0,3.0,Not worth the money,2023-09-01
+245,Paris,1193.0,34.0,4.0,Loved the trip!,2023-09-02
+246,London,3890.0,51.0,4.0,Could be better,2023-09-03
+247,Singapore,1681.0,37.0,2.0,Amazing experience!,2023-09-04
+248,Paris,3518.0,33.0,4.0,Not worth the money,2023-06-02
+249,Paris,2004.0,27.0,1.0,Could be better,2023-09-06
+250,London,2402.0,51.0,4.0,Highly recommended,2023-09-07
+251,Singapore,4671.0,60.0,2.0,Could be better,2023-09-08
+252,London,828.0,27.0,4.0,Not worth the money,2023-09-09
+253,Paris,1939.0,47.0,2.0,Highly recommended,2023-09-10
+254,Singapore,4346.0,47.0,1.0,Not worth the money,2023-09-11
+255,Singapore,4667.0,68.0,3.0,Could be better,2023-09-12
+256,Paris,724.0,42.0,2.0,Loved the trip!,2023-09-13
+257,New York,3020.0,63.0,4.0,Loved the trip!,2023-09-14
+258,London,4214.0,60.0,2.0,Loved the trip!,2023-09-15
+259,London,2907.0,58.0,3.0,Amazing experience!,2023-09-16
+260,Dubai,1310.0,24.0,3.0,Not worth the money,2023-09-17
+261,Dubai,3617.0,64.0,2.0,Amazing experience!,2023-09-18
+262,Dubai,3790.0,37.0,3.0,Amazing experience!,2023-09-19
+263,Dubai,4886.0,34.0,4.0,Amazing experience!,2023-09-20
+264,Dubai,2802.0,20.0,2.0,Amazing experience!,2023-09-21
+265,New York,3029.0,64.0,1.0,Not worth the money,2023-09-22
+266,New York,1423.0,63.0,3.0,Highly recommended,2023-09-23
+267,Dubai,3552.0,57.0,3.0,Highly recommended,2023-09-24
+268,Paris,515.0,53.0,3.0,Not worth the money,2023-09-25
+269,New York,4096.0,43.0,3.0,Amazing experience!,2023-09-26
+270,New York,2903.0,27.0,4.0,Could be better,2023-09-27
+271,New York,4951.0,51.0,1.0,Loved the trip!,2023-09-28
+272,Dubai,4510.0,31.0,3.0,Amazing experience!,2023-09-29
+273,London,3146.0,25.0,3.0,Could be better,2023-09-30
+274,New York,1601.0,44.0,4.0,Not worth the money,2023-10-01
+275,London,3475.0,27.0,5.0,Amazing experience!,2023-10-02
+276,Singapore,1590.0,67.0,3.0,Could be better,2023-10-03
+277,New York,3406.0,32.0,5.0,Not worth the money,2023-06-02
+278,London,2246.0,54.0,3.0,Amazing experience!,2023-10-05
+279,Dubai,4809.0,39.0,1.0,Amazing experience!,2023-10-06
+280,Singapore,2220.0,62.0,2.0,Amazing experience!,2023-10-07
+281,London,948.0,67.0,3.0,Not worth the money,2023-10-08
+282,Dubai,3512.0,48.0,3.0,Loved the trip!,2023-10-09
+283,New York,4004.0,19.0,1.0,Not worth the money,2023-10-10
+284,New York,2068.0,62.0,3.0,Amazing experience!,2023-10-11
+285,Paris,3686.0,48.0,3.0,Not worth the money,2023-10-12
+286,Dubai,3991.0,31.0,2.0,Loved the trip!,2023-10-13
+287,Singapore,3046.0,27.0,3.0,Could be better,2023-10-14
+288,Paris,4975.0,47.0,4.0,Could be better,2023-10-15
+289,New York,1547.0,53.0,3.0,Loved the trip!,2023-10-16
+290,Paris,1564.0,64.0,4.0,Loved the trip!,2023-10-17
+291,Dubai,4321.0,57.0,4.0,Loved the trip!,2023-10-18
+292,Dubai,1067.0,32.0,3.0,Amazing experience!,2023-10-19
+293,Dubai,1936.0,31.0,2.0,Loved the trip!,2023-10-20
+294,Paris,3205.0,48.0,3.0,Loved the trip!,2023-10-21
+295,Dubai,2983.0,46.0,3.0,Loved the trip!,2023-10-22
+296,Dubai,4279.0,44.0,3.0,Loved the trip!,2023-10-23
+297,Singapore,3294.0,42.0,2.0,Highly recommended,2023-10-24
+298,New York,2360.0,26.0,2.0,Highly recommended,2023-10-25
+299,New York,3836.0,37.0,4.0,Loved the trip!,2023-10-26
+300,London,2390.0,52.0,3.0,Not worth the money,2023-10-27
+301,Paris,4791.0,32.0,3.0,Amazing experience!,2023-10-28
+302,London,1597.0,41.0,3.0,Not worth the money,2023-10-29
+303,New York,2138.0,66.0,4.0,Loved the trip!,2023-10-30
+304,London,2158.0,33.0,3.0,Could be better,2023-10-31
+305,Dubai,1625.0,53.0,3.0,Amazing experience!,2023-11-01
+306,London,763.0,28.0,5.0,Amazing experience!,2023-11-02
+307,New York,3492.0,25.0,4.0,Amazing experience!,2023-11-03
+308,Singapore,660.0,42.0,3.0,Amazing experience!,2023-11-04
+309,New York,1756.0,36.0,2.0,Amazing experience!,2023-11-05
+310,London,810.0,63.0,4.0,Not worth the money,2023-11-06
+311,Dubai,726.0,58.0,4.0,Amazing experience!,2023-11-07
+312,Paris,772.0,20.0,3.0,Could be better,2023-11-08
+313,Paris,4912.0,53.0,3.0,Highly recommended,2023-11-09
+314,Paris,2422.0,42.0,4.0,Amazing experience!,2023-11-10
+315,Paris,3657.0,53.0,3.0,Highly recommended,2023-11-11
+316,Paris,2838.0,28.0,4.0,Loved the trip!,2023-11-12
+317,London,2101.0,68.0,2.0,Could be better,2023-11-13
+318,Paris,4218.0,33.0,5.0,Amazing experience!,2023-11-14
+319,New York,2922.0,34.0,4.0,Amazing experience!,2023-11-15
+320,Paris,2425.0,59.0,4.0,Could be better,2023-11-16
+321,Singapore,1066.0,41.0,3.0,Amazing experience!,2023-11-17
+322,Paris,3415.0,34.0,2.0,Could be better,2023-11-18
+323,Dubai,2802.0,65.0,3.0,Amazing experience!,2023-11-19
+324,Singapore,2854.0,37.0,4.0,Loved the trip!,2023-11-20
+325,Paris,4001.0,39.0,4.0,Amazing experience!,2023-11-21
+326,Singapore,2802.0,23.0,3.0,Not worth the money,2023-11-22
+327,Dubai,2615.0,24.0,4.0,Amazing experience!,2023-11-23
+328,Singapore,2102.0,31.0,4.0,Not worth the money,2023-11-24
+329,Singapore,3770.0,28.0,1.0,Amazing experience!,2023-11-25
+330,New York,1013.0,29.0,3.0,Amazing experience!,2023-11-26
+331,New York,941.0,63.0,4.0,Could be better,2023-11-27
+332,London,500.0,22.0,3.0,Loved the trip!,2023-11-28
+333,Paris,1402.0,22.0,4.0,Amazing experience!,2023-11-29
+334,Dubai,1720.0,37.0,3.0,Loved the trip!,2023-11-30
+335,Paris,2821.0,32.0,5.0,Amazing experience!,2023-12-01
+336,Paris,1355.0,42.0,1.0,Loved the trip!,2023-12-02
+337,London,1517.0,50.0,3.0,Amazing experience!,2023-12-03
+338,Singapore,2720.0,42.0,1.0,Could be better,2023-12-04
+339,Paris,4004.0,41.0,2.0,Amazing experience!,2023-12-05
+340,London,695.0,40.0,3.0,Amazing experience!,2023-12-06
+341,Dubai,1832.0,26.0,2.0,Loved the trip!,2023-12-07
+342,Dubai,2017.0,42.0,5.0,Highly recommended,2023-12-08
+343,Paris,3197.0,53.0,5.0,Could be better,2023-12-09
+344,Paris,4954.0,65.0,3.0,Not worth the money,2023-12-10
+345,Dubai,3607.0,24.0,4.0,Loved the trip!,2023-12-11
+346,Dubai,1557.0,39.0,3.0,Loved the trip!,2023-12-12
+347,Paris,3205.0,31.0,4.0,Amazing experience!,2023-12-13
+348,Dubai,2563.0,65.0,4.0,Amazing experience!,2023-12-14
+349,Singapore,2802.0,46.0,1.0,Highly recommended,2023-12-15
+350,London,920.0,67.0,4.0,Could be better,2023-12-16
+351,London,3314.0,33.0,4.0,Amazing experience!,2023-12-17
+352,Paris,3340.0,65.0,3.0,Loved the trip!,2023-12-18
+353,Paris,1531.0,51.0,5.0,Could be better,2023-12-19
+354,Paris,1991.0,27.0,3.0,Could be better,2023-12-20
+355,Singapore,2385.0,24.0,3.0,Loved the trip!,2023-12-21
+356,London,1009.0,42.0,4.0,Amazing experience!,2023-12-22
+357,Dubai,2359.0,44.0,5.0,Could be better,2023-12-23
+358,New York,2358.0,32.0,2.0,Could be better,2023-12-24
+359,Paris,1413.0,49.0,3.0,Highly recommended,2023-12-25
+360,Dubai,2565.0,45.0,2.0,Could be better,2023-12-26
+361,London,3466.0,26.0,4.0,Loved the trip!,2023-12-27
+362,Paris,4337.0,24.0,4.0,Amazing experience!,2023-12-28
+363,Singapore,2096.0,33.0,2.0,Amazing experience!,2023-12-29
+364,Paris,4942.0,43.0,5.0,Highly recommended,2023-12-30
+365,New York,1555.0,52.0,4.0,Not worth the money,2023-12-31
+366,London,1523.0,34.0,4.0,Could be better,2024-01-01
+367,Paris,3704.0,40.0,1.0,Amazing experience!,2024-01-02
+368,New York,1075.0,25.0,3.0,Amazing experience!,2024-01-03
+369,Dubai,698.0,19.0,4.0,Not worth the money,2024-01-04
+370,London,1865.0,48.0,3.0,Amazing experience!,2024-01-05
+371,Dubai,2498.0,69.0,4.0,Not worth the money,2024-01-06
+372,London,1516.0,49.0,4.0,Loved the trip!,2024-01-07
+373,Singapore,4118.0,46.0,3.0,Could be better,2024-01-08
+374,London,525.0,20.0,4.0,Highly recommended,2024-01-09
+375,London,2058.0,25.0,2.0,Highly recommended,2024-01-10
+376,New York,4224.0,19.0,2.0,Could be better,2024-01-11
+377,Paris,3958.0,48.0,1.0,Highly recommended,2023-06-02
+378,London,3856.0,68.0,3.0,Not worth the money,2024-01-13
+379,London,2867.0,66.0,3.0,Not worth the money,2024-01-14
+380,Singapore,970.0,54.0,4.0,Highly recommended,2024-01-15
+381,Paris,2967.0,37.0,4.0,Loved the trip!,2024-01-16
+382,New York,1385.0,46.0,3.0,Not worth the money,2024-01-17
+383,Dubai,1375.0,34.0,4.0,Highly recommended,2024-01-18
+384,New York,1441.0,27.0,1.0,Loved the trip!,2024-01-19
+385,Dubai,3541.0,58.0,2.0,Loved the trip!,2024-01-20
+386,London,1071.0,39.0,4.0,Could be better,2024-01-21
+387,Paris,4649.0,23.0,4.0,Not worth the money,2024-01-22
+388,Paris,1104.0,60.0,4.0,Not worth the money,2024-01-23
+389,London,2802.0,51.0,3.0,Loved the trip!,2024-01-24
+390,Singapore,4029.0,48.0,4.0,Could be better,2024-01-25
+391,New York,4860.0,29.0,4.0,Amazing experience!,2024-01-26
+392,Paris,881.0,29.0,5.0,Amazing experience!,2024-01-27
+393,Paris,1736.0,33.0,2.0,Loved the trip!,2024-01-28
+394,Dubai,2880.0,42.0,3.0,Could be better,2024-01-29
+395,Dubai,4279.0,39.0,4.0,Not worth the money,2024-01-30
+396,Dubai,2605.0,44.0,5.0,Loved the trip!,2024-01-31
+397,London,2017.0,42.0,2.0,Highly recommended,2024-02-01
+398,Paris,2033.0,29.0,3.0,Amazing experience!,2024-02-02
+399,London,3794.0,35.0,3.0,Highly recommended,2024-02-03
+400,Dubai,3940.0,62.0,3.0,Could be better,2024-02-04
+401,Dubai,3989.0,64.0,2.0,Loved the trip!,2024-02-05
+402,Paris,4445.0,33.0,1.0,Loved the trip!,2024-02-06
+403,London,1370.0,21.0,3.0,Could be better,2024-02-07
+404,Singapore,2650.0,29.0,3.0,Amazing experience!,2024-02-08
+405,Singapore,3732.0,66.0,2.0,Amazing experience!,2024-02-09
+406,Paris,3731.0,50.0,3.0,Not worth the money,2024-02-10
+407,Singapore,4266.0,39.0,1.0,Could be better,2024-02-11
+408,London,3707.0,35.0,5.0,Highly recommended,2024-02-12
+409,New York,4993.0,65.0,3.0,Could be better,2024-02-13
+410,Paris,4987.0,50.0,4.0,Highly recommended,2024-02-14
+411,Singapore,4326.0,44.0,3.0,Amazing experience!,2024-02-15
+412,Paris,2112.0,59.0,5.0,Amazing experience!,2024-02-16
+413,Dubai,1577.0,36.0,3.0,Could be better,2024-02-17
+414,New York,1800.0,65.0,3.0,Highly recommended,2024-02-18
+415,Paris,2658.0,31.0,3.0,Loved the trip!,2024-02-19
+416,Dubai,2771.0,42.0,4.0,Amazing experience!,2024-02-20
+417,Paris,3029.0,51.0,3.0,Amazing experience!,2024-02-21
+418,New York,3760.0,41.0,2.0,Could be better,2024-02-22
+419,London,863.0,55.0,2.0,Loved the trip!,2024-02-23
+420,Dubai,1345.0,40.0,4.0,Could be better,2024-02-24
+421,Singapore,3532.0,22.0,3.0,Not worth the money,2024-02-25
+422,London,1827.0,61.0,1.0,Amazing experience!,2024-02-26
+423,Paris,3662.0,53.0,3.0,Highly recommended,2024-02-27
+424,New York,891.0,41.0,3.0,Loved the trip!,2024-02-28
+425,New York,3755.0,53.0,4.0,Could be better,2023-06-02
+426,Paris,2559.0,22.0,1.0,Highly recommended,2024-03-01
+427,Paris,3737.0,56.0,3.0,Could be better,2024-03-02
+428,London,2546.0,23.0,4.0,Could be better,2024-03-03
+429,Singapore,4741.0,62.0,4.0,Highly recommended,2024-03-04
+430,Singapore,1805.0,53.0,2.0,Amazing experience!,2024-03-05
+431,New York,3394.0,62.0,4.0,Could be better,2024-03-06
+432,London,2532.0,21.0,3.0,Amazing experience!,2024-03-07
+433,London,1264.0,27.0,3.0,Amazing experience!,2024-03-08
+434,Paris,998.0,69.0,5.0,Amazing experience!,2024-03-09
+435,Singapore,3868.0,18.0,5.0,Amazing experience!,2024-03-10
+436,Paris,3444.0,38.0,3.0,Could be better,2024-03-11
+437,Dubai,4304.0,57.0,2.0,Highly recommended,2024-03-12
+438,Dubai,4713.0,56.0,3.0,Loved the trip!,2024-03-13
+439,London,4960.0,54.0,1.0,Loved the trip!,2024-03-14
+440,London,635.0,20.0,1.0,Loved the trip!,2024-03-15
+441,New York,1600.0,64.0,3.0,Highly recommended,2024-03-16
+442,London,2371.0,48.0,5.0,Highly recommended,2024-03-17
+443,London,4533.0,44.0,4.0,Highly recommended,2024-03-18
+444,London,4613.0,34.0,3.0,Highly recommended,2024-03-19
+445,Singapore,4512.0,40.0,3.0,Amazing experience!,2024-03-20
+446,Paris,704.0,30.0,1.0,Loved the trip!,2024-03-21
+447,New York,2871.0,64.0,2.0,Loved the trip!,2024-03-22
+448,New York,1061.0,44.0,1.0,Loved the trip!,2024-03-23
+449,Dubai,3814.0,68.0,3.0,Loved the trip!,2024-03-24
+450,New York,4460.0,37.0,2.0,Amazing experience!,2023-06-02
+451,Paris,2802.0,63.0,4.0,Amazing experience!,2024-03-26
+452,Dubai,2711.0,30.0,4.0,Highly recommended,2024-03-27
+453,Paris,2871.0,61.0,2.0,Loved the trip!,2024-03-28
+454,Paris,3181.0,41.0,2.0,Could be better,2024-03-29
+455,New York,3306.0,58.0,4.0,Could be better,2024-03-30
+456,London,4269.0,20.0,5.0,Loved the trip!,2024-03-31
+457,Paris,2755.0,60.0,4.0,Could be better,2024-04-01
+458,London,4910.0,27.0,3.0,Could be better,2024-04-02
+459,London,1400.0,18.0,3.0,Amazing experience!,2024-04-03
+460,New York,2250.0,66.0,3.0,Amazing experience!,2024-04-04
+461,London,3795.0,30.0,5.0,Could be better,2024-04-05
+462,New York,3659.0,31.0,4.0,Not worth the money,2024-04-06
+463,Paris,2802.0,50.0,4.0,Amazing experience!,2024-04-07
+464,Paris,1743.0,19.0,3.0,Could be better,2024-04-08
+465,Dubai,2822.0,42.0,4.0,Not worth the money,2024-04-09
+466,Dubai,2802.0,56.0,3.0,Not worth the money,2024-04-10
+467,Paris,2527.0,58.0,1.0,Amazing experience!,2024-04-11
+468,Paris,2268.0,48.0,3.0,Not worth the money,2024-04-12
+469,Dubai,4163.0,21.0,5.0,Highly recommended,2024-04-13
+470,Paris,2802.0,51.0,4.0,Highly recommended,2024-04-14
+471,London,1669.0,36.0,1.0,Not worth the money,2024-04-15
+472,Singapore,2932.0,54.0,4.0,Not worth the money,2024-04-16
+473,Dubai,886.0,26.0,2.0,Amazing experience!,2024-04-17
+474,Paris,2930.0,41.0,2.0,Loved the trip!,2024-04-18
+475,Paris,3848.0,30.0,2.0,Loved the trip!,2024-04-19
+476,Dubai,1905.0,61.0,3.0,Could be better,2024-04-20
+477,London,623.0,47.0,3.0,Loved the trip!,2024-04-21
+478,New York,4497.0,36.0,3.0,Not worth the money,2024-04-22
+479,Singapore,3952.0,58.0,4.0,Highly recommended,2024-04-23
+480,London,2802.0,27.0,3.0,Could be better,2024-04-24
+481,Singapore,2124.0,68.0,4.0,Amazing experience!,2024-04-25
+482,Singapore,1681.0,59.0,2.0,Loved the trip!,2024-04-26
+483,Singapore,1227.0,61.0,4.0,Amazing experience!,2024-04-27
+484,Paris,4384.0,31.0,4.0,Loved the trip!,2024-04-28
+485,Singapore,4170.0,57.0,4.0,Amazing experience!,2024-04-29
+486,Dubai,1641.0,65.0,3.0,Loved the trip!,2024-04-30
+487,Dubai,2875.0,66.0,4.0,Loved the trip!,2024-05-01
+488,Dubai,4531.0,37.0,1.0,Amazing experience!,2024-05-02
+489,Singapore,858.0,21.0,4.0,Amazing experience!,2024-05-03
+490,London,4242.0,55.0,1.0,Could be better,2024-05-04
+491,Paris,3344.0,42.0,2.0,Could be better,2024-05-05
+492,Paris,2711.0,67.0,3.0,Not worth the money,2024-05-06
+493,Singapore,1472.0,56.0,4.0,Loved the trip!,2024-05-07
+494,New York,860.0,22.0,3.0,Could be better,2024-05-08
+495,Dubai,3132.0,59.0,5.0,Loved the trip!,2024-05-09
+496,London,3690.0,49.0,5.0,Amazing experience!,2024-05-10
+497,New York,2124.0,23.0,4.0,Not worth the money,2024-05-11
+498,Paris,4428.0,31.0,3.0,Amazing experience!,2024-05-12
+499,Dubai,2256.0,23.0,4.0,Highly recommended,2024-05-13
+500,London,740.0,31.0,3.0,Loved the trip!,2024-05-14
