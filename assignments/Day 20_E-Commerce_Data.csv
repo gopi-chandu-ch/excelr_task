@@ -1,0 +1,506 @@
+Order_ID,Product_Category,Product_Price,Customer_Age,Rating,Review_Text,Order_Date
+1,Clothing,3262.0,58.0,3.0,Would not recommend,2023-01-01
+2,Clothing,214.0,20.0,3.0,Excellent product!,2023-01-02
+3,Home Decor,3429.0,51.0,2.0,Value for money,2023-01-03
+4,Books,4568.0,35.0,3.0,Value for money,2023-01-04
+5,Electronics,2237.0,32.0,4.0,Not as expected,2023-01-05
+6,Beauty,4952.0,42.0,1.0,Fast delivery,2023-01-06
+7,Home Decor,130.0,67.0,3.0,Excellent product!,2023-01-07
+8,Clothing,1905.0,,1.0,Value for money,2023-01-08
+9,Books,3669.0,32.0,4.0,Excellent product!,2023-01-09
+10,Electronics,1536.0,47.0,4.0,Would not recommend,2023-01-10
+11,Home Decor,4885.0,34.0,1.0,Excellent product!,2023-01-11
+12,Home Decor,3528.0,35.0,5.0,Fast delivery,2023-01-12
+13,Electronics,556.0,48.0,1.0,Fast delivery,2023-01-13
+14,Beauty,548.0,67.0,3.0,Fast delivery,2023-01-14
+15,Books,167.0,60.0,4.0,Excellent product!,2023-01-15
+16,Electronics,4189.0,35.0,4.0,Value for money,2023-01-16
+17,Clothing,1962.0,52.0,1.0,Excellent product!,
+18,Electronics,1902.0,30.0,5.0,Fast delivery,2023-01-18
+19,Beauty,4662.0,31.0,5.0,Would not recommend,2023-01-19
+20,Clothing,3531.0,53.0,3.0,Value for money,2023-01-20
+21,Home Decor,227.0,35.0,3.0,Would not recommend,2023-01-21
+22,Clothing,4928.0,22.0,1.0,Excellent product!,2023-01-22
+23,Clothing,3925.0,31.0,3.0,Value for money,2023-01-23
+24,Books,1367.0,42.0,3.0,Not as expected,2023-01-24
+25,Books,4110.0,61.0,,Fast delivery,2023-01-25
+26,Home Decor,1142.0,56.0,3.0,Fast delivery,2023-01-26
+27,Books,3838.0,29.0,4.0,Would not recommend,2023-01-27
+28,Home Decor,467.0,57.0,2.0,Fast delivery,2023-01-28
+29,Electronics,2704.0,45.0,2.0,Not as expected,2023-01-29
+30,Electronics,2740.0,52.0,2.0,Fast delivery,2023-01-30
+31,Clothing,158.0,18.0,1.0,Not as expected,2023-01-31
+32,Books,4356.0,20.0,3.0,Would not recommend,2023-02-01
+33,Beauty,202.0,60.0,4.0,Would not recommend,2023-02-02
+34,Electronics,4607.0,67.0,4.0,Excellent product!,2023-02-03
+35,Clothing,885.0,24.0,3.0,Not as expected,2023-02-04
+36,Clothing,4378.0,26.0,4.0,Excellent product!,2023-02-05
+37,Beauty,4045.0,53.0,3.0,Fast delivery,2023-02-06
+38,Beauty,2546.0,40.0,3.0,Excellent product!,2023-02-07
+39,Clothing,1056.0,41.0,3.0,Value for money,2023-02-08
+40,Books,2802.0,27.0,4.0,Would not recommend,2023-02-09
+41,Books,536.0,67.0,2.0,Excellent product!,2023-02-10
+42,Electronics,2465.0,65.0,1.0,Value for money,2023-02-11
+43,Home Decor,4801.0,29.0,3.0,Value for money,2023-02-12
+44,Books,,36.0,5.0,Excellent product!,2023-02-13
+45,Electronics,1466.0,,4.0,Would not recommend,2023-02-14
+46,Home Decor,2965.0,41.0,4.0,Not as expected,2023-02-15
+47,Electronics,1951.0,39.0,,Excellent product!,2023-02-16
+48,Home Decor,1122.0,20.0,3.0,Value for money,2023-02-17
+49,Beauty,3230.0,57.0,4.0,Not as expected,2023-02-18
+50,Home Decor,2944.0,,4.0,Fast delivery,2023-02-19
+51,Electronics,1589.0,36.0,2.0,Fast delivery,2023-02-20
+52,Electronics,2434.0,26.0,3.0,Value for money,2023-02-21
+53,Books,4532.0,68.0,2.0,Not as expected,2023-02-22
+54,Clothing,3489.0,66.0,3.0,Not as expected,2023-02-23
+55,Home Decor,302.0,30.0,4.0,Not as expected,2023-02-24
+56,Electronics,330.0,19.0,3.0,nan,2023-02-25
+57,Books,3734.0,53.0,3.0,Fast delivery,2023-02-26
+58,Beauty,3228.0,46.0,4.0,Not as expected,2023-02-27
+59,Beauty,2791.0,28.0,3.0,Excellent product!,2023-02-28
+60,Clothing,3591.0,51.0,3.0,Value for money,2023-03-01
+61,Books,3062.0,21.0,4.0,Excellent product!,2023-03-02
+62,Clothing,2427.0,21.0,,nan,2023-03-03
+63,Books,4661.0,69.0,4.0,Value for money,2023-03-04
+64,Electronics,2884.0,18.0,1.0,Value for money,2023-03-05
+65,Books,903.0,42.0,,Not as expected,
+66,Home Decor,4461.0,43.0,3.0,Fast delivery,2023-03-07
+67,Beauty,3823.0,28.0,3.0,Excellent product!,2023-03-08
+68,Books,3001.0,40.0,5.0,Fast delivery,2023-03-09
+69,Clothing,275.0,19.0,5.0,Not as expected,2023-03-10
+70,Beauty,1544.0,36.0,,Fast delivery,2023-03-11
+71,Clothing,4103.0,46.0,3.0,Would not recommend,2023-03-12
+72,,3632.0,57.0,5.0,Excellent product!,2023-03-13
+73,Books,4449.0,69.0,4.0,Fast delivery,2023-03-14
+74,,1643.0,21.0,3.0,Would not recommend,2023-03-15
+75,Electronics,2254.0,33.0,4.0,Excellent product!,2023-03-16
+76,Clothing,2205.0,64.0,1.0,Excellent product!,2023-03-17
+77,Books,3513.0,54.0,2.0,Value for money,2023-03-18
+78,Beauty,3461.0,,4.0,Would not recommend,2023-03-19
+79,Electronics,,22.0,4.0,Would not recommend,2023-03-20
+80,Electronics,1240.0,32.0,3.0,Would not recommend,2023-03-21
+81,Clothing,4907.0,40.0,3.0,Would not recommend,2023-03-22
+82,Beauty,1861.0,66.0,5.0,Would not recommend,2023-03-23
+83,Books,2040.0,20.0,4.0,Value for money,2023-03-24
+84,Clothing,1906.0,35.0,3.0,Not as expected,2023-03-25
+85,Electronics,3273.0,60.0,2.0,Fast delivery,2023-03-26
+86,Home Decor,756.0,43.0,2.0,Excellent product!,2023-03-27
+87,Clothing,2603.0,23.0,5.0,Not as expected,2023-03-28
+88,Books,758.0,61.0,3.0,Would not recommend,2023-03-29
+89,Home Decor,2938.0,34.0,3.0,Not as expected,2023-03-30
+90,Books,4336.0,63.0,3.0,Excellent product!,2023-03-31
+91,Beauty,2553.0,55.0,4.0,Excellent product!,2023-04-01
+92,Home Decor,1154.0,59.0,4.0,nan,2023-04-02
+93,Clothing,3141.0,65.0,4.0,Fast delivery,2023-04-03
+94,Books,4103.0,67.0,3.0,Value for money,2023-04-04
+95,Clothing,2438.0,44.0,1.0,Value for money,2023-04-05
+96,Beauty,210.0,37.0,5.0,Not as expected,2023-04-06
+97,Electronics,1818.0,23.0,5.0,Not as expected,2023-04-07
+98,Beauty,4391.0,68.0,5.0,Excellent product!,2023-04-08
+99,Electronics,225.0,52.0,5.0,Not as expected,2023-04-09
+100,Electronics,361.0,29.0,4.0,Not as expected,2023-04-10
+101,Clothing,3034.0,65.0,4.0,Excellent product!,2023-04-11
+102,,2302.0,20.0,,Excellent product!,2023-04-12
+103,,1704.0,65.0,4.0,Would not recommend,2023-04-13
+104,Clothing,4303.0,21.0,2.0,Fast delivery,2023-04-14
+105,Electronics,2182.0,69.0,3.0,Fast delivery,2023-04-15
+106,Clothing,4042.0,62.0,5.0,Value for money,2023-04-16
+107,Clothing,754.0,21.0,3.0,Excellent product!,2023-04-17
+108,Books,2563.0,21.0,4.0,Would not recommend,2023-04-18
+109,Home Decor,384.0,56.0,1.0,Excellent product!,2023-04-19
+110,Books,2665.0,38.0,3.0,Would not recommend,2023-04-20
+111,Books,3901.0,61.0,3.0,Would not recommend,2023-04-21
+112,Home Decor,126.0,19.0,1.0,Would not recommend,2023-04-22
+113,Beauty,2374.0,33.0,2.0,Fast delivery,2023-04-23
+114,Electronics,3967.0,24.0,2.0,Would not recommend,2023-04-24
+115,Electronics,4072.0,36.0,4.0,Would not recommend,2023-04-25
+116,Books,1691.0,60.0,1.0,Not as expected,2023-04-26
+117,Clothing,3481.0,50.0,2.0,Fast delivery,2023-04-27
+118,Electronics,1228.0,26.0,1.0,Excellent product!,2023-04-28
+119,Beauty,4213.0,54.0,4.0,Fast delivery,2023-04-29
+120,Books,2236.0,34.0,4.0,Not as expected,2023-04-30
+121,Home Decor,256.0,44.0,4.0,Excellent product!,2023-05-01
+122,Books,1389.0,50.0,3.0,Fast delivery,
+123,Clothing,2281.0,66.0,2.0,Excellent product!,2023-05-03
+124,,2611.0,29.0,4.0,Fast delivery,2023-05-04
+125,Electronics,1871.0,62.0,4.0,Not as expected,2023-05-05
+126,Books,1255.0,28.0,2.0,Fast delivery,2023-05-06
+127,Books,2888.0,30.0,3.0,Would not recommend,2023-05-07
+128,Home Decor,3076.0,48.0,2.0,Would not recommend,2023-05-08
+129,Books,3599.0,30.0,2.0,Not as expected,2023-05-09
+130,Beauty,3013.0,55.0,4.0,Excellent product!,2023-05-10
+131,Books,303.0,43.0,3.0,Fast delivery,2023-05-11
+132,Clothing,1922.0,48.0,2.0,Excellent product!,2023-05-12
+133,Home Decor,1459.0,39.0,3.0,Not as expected,2023-05-13
+134,Beauty,2644.0,23.0,5.0,Value for money,2023-05-14
+135,Home Decor,541.0,37.0,4.0,Value for money,2023-05-15
+136,Books,1415.0,38.0,4.0,Excellent product!,2023-05-16
+137,Home Decor,4137.0,27.0,3.0,Excellent product!,2023-05-17
+138,Electronics,1248.0,36.0,4.0,nan,2023-05-18
+139,Electronics,1298.0,52.0,3.0,Fast delivery,2023-05-19
+140,,3016.0,43.0,1.0,Excellent product!,2023-05-20
+141,Books,,24.0,3.0,Fast delivery,2023-05-21
+142,Electronics,4275.0,54.0,3.0,Excellent product!,2023-05-22
+143,Beauty,2959.0,25.0,2.0,Excellent product!,2023-05-23
+144,Home Decor,3062.0,22.0,4.0,Value for money,2023-05-24
+145,Books,1467.0,61.0,2.0,Excellent product!,2023-05-25
+146,Electronics,4765.0,53.0,3.0,Value for money,2023-05-26
+147,Beauty,3009.0,68.0,2.0,Fast delivery,2023-05-27
+148,Home Decor,2316.0,45.0,3.0,Excellent product!,2023-05-28
+149,Books,3505.0,67.0,1.0,Would not recommend,2023-05-29
+150,Electronics,3159.0,20.0,2.0,Not as expected,2023-05-30
+151,Clothing,2383.0,56.0,3.0,Excellent product!,2023-05-31
+152,Clothing,4594.0,25.0,3.0,Excellent product!,2023-06-01
+153,Beauty,920.0,32.0,3.0,Fast delivery,2023-06-02
+154,Electronics,3160.0,44.0,2.0,Excellent product!,2023-06-03
+155,Books,2624.0,66.0,3.0,Fast delivery,2023-06-04
+156,Electronics,2732.0,68.0,3.0,Value for money,2023-06-05
+157,Electronics,2762.0,53.0,3.0,Excellent product!,2023-06-06
+158,Clothing,,33.0,4.0,Value for money,2023-06-07
+159,Books,4553.0,43.0,,Fast delivery,2023-06-08
+160,Books,3229.0,62.0,3.0,Would not recommend,2023-06-09
+161,,4114.0,61.0,5.0,Value for money,2023-06-10
+162,Beauty,4716.0,21.0,4.0,Fast delivery,2023-06-11
+163,Electronics,4588.0,29.0,5.0,Excellent product!,2023-06-12
+164,Beauty,1766.0,34.0,4.0,Fast delivery,2023-06-13
+165,Home Decor,3500.0,58.0,3.0,Fast delivery,2023-06-14
+166,Beauty,3682.0,61.0,2.0,Would not recommend,2023-06-15
+167,Electronics,2300.0,43.0,4.0,Fast delivery,2023-06-16
+168,Beauty,992.0,48.0,5.0,Value for money,2023-06-17
+169,Electronics,4050.0,32.0,4.0,Would not recommend,2023-06-18
+170,Clothing,1083.0,69.0,4.0,Value for money,2023-06-19
+171,Electronics,682.0,51.0,3.0,Not as expected,2023-06-20
+172,Electronics,4215.0,46.0,3.0,Value for money,2023-06-21
+173,Home Decor,2740.0,26.0,5.0,Not as expected,2023-06-22
+174,Beauty,2073.0,31.0,,Not as expected,2023-06-23
+175,Books,3517.0,53.0,5.0,Not as expected,2023-06-24
+176,Clothing,4214.0,21.0,4.0,Excellent product!,2023-06-25
+177,Electronics,2515.0,55.0,3.0,Not as expected,2023-06-26
+178,Clothing,988.0,54.0,3.0,Fast delivery,2023-06-27
+179,Beauty,1983.0,41.0,5.0,Not as expected,2023-06-28
+180,Electronics,4921.0,34.0,3.0,Would not recommend,2023-06-29
+181,Home Decor,3922.0,30.0,2.0,Excellent product!,2023-06-30
+182,Electronics,246.0,37.0,3.0,Not as expected,2023-07-01
+183,Home Decor,1816.0,34.0,3.0,Excellent product!,2023-07-02
+184,Electronics,2577.0,68.0,1.0,Excellent product!,2023-07-03
+185,Electronics,1563.0,44.0,4.0,Value for money,2023-07-04
+186,Electronics,2345.0,50.0,2.0,Value for money,2023-07-05
+187,Clothing,1410.0,38.0,3.0,Excellent product!,2023-07-06
+188,Clothing,4760.0,34.0,4.0,Value for money,2023-07-07
+189,Books,468.0,39.0,3.0,Fast delivery,2023-07-08
+190,Electronics,1363.0,42.0,4.0,Excellent product!,2023-07-09
+191,Electronics,2949.0,20.0,3.0,Excellent product!,2023-07-10
+192,Electronics,2847.0,44.0,5.0,Would not recommend,2023-07-11
+193,Beauty,2665.0,44.0,2.0,Excellent product!,2023-07-12
+194,Books,1918.0,63.0,1.0,nan,2023-07-13
+195,Books,1987.0,29.0,4.0,nan,2023-07-14
+196,Clothing,3883.0,32.0,4.0,nan,2023-07-15
+197,Clothing,159.0,55.0,2.0,Not as expected,2023-07-16
+198,Electronics,644.0,37.0,5.0,Value for money,2023-07-17
+199,Home Decor,3164.0,39.0,3.0,Excellent product!,2023-07-18
+200,Home Decor,1330.0,19.0,5.0,Fast delivery,2023-07-19
+201,Beauty,658.0,21.0,3.0,Value for money,2023-07-20
+202,Beauty,1612.0,62.0,3.0,Excellent product!,2023-07-21
+203,Home Decor,769.0,30.0,3.0,Value for money,2023-07-22
+204,Home Decor,357.0,49.0,3.0,Excellent product!,2023-07-23
+205,Electronics,1170.0,,3.0,Excellent product!,2023-07-24
+206,Clothing,1150.0,42.0,3.0,Value for money,2023-07-25
+207,Beauty,4138.0,44.0,1.0,Value for money,2023-07-26
+208,Electronics,4122.0,,2.0,Value for money,2023-07-27
+209,,244.0,23.0,2.0,Excellent product!,2023-07-28
+210,Home Decor,2734.0,60.0,4.0,Value for money,2023-07-29
+211,Home Decor,2669.0,68.0,3.0,Excellent product!,2023-07-30
+212,Electronics,900.0,33.0,4.0,Value for money,2023-07-31
+213,Books,1585.0,25.0,5.0,Value for money,2023-08-01
+214,Home Decor,3848.0,50.0,4.0,Would not recommend,2023-08-02
+215,Clothing,,27.0,5.0,Fast delivery,2023-08-03
+216,Clothing,2923.0,51.0,3.0,Fast delivery,2023-08-04
+217,Electronics,772.0,36.0,2.0,Fast delivery,2023-08-05
+218,Home Decor,4074.0,31.0,3.0,Fast delivery,2023-08-06
+219,Clothing,3589.0,20.0,3.0,Would not recommend,
+220,Books,4522.0,58.0,4.0,Fast delivery,2023-08-08
+221,Books,1514.0,40.0,3.0,Fast delivery,2023-08-09
+222,Clothing,,57.0,2.0,Would not recommend,2023-08-10
+223,Books,4825.0,28.0,4.0,nan,2023-08-11
+224,Clothing,3994.0,64.0,3.0,Excellent product!,2023-08-12
+225,Books,,23.0,2.0,Fast delivery,2023-08-13
+226,Electronics,2128.0,51.0,3.0,Value for money,2023-08-14
+227,Electronics,1294.0,18.0,5.0,Fast delivery,2023-08-15
+228,Clothing,2124.0,52.0,4.0,Not as expected,2023-08-16
+229,Books,1457.0,42.0,3.0,Not as expected,2023-08-17
+230,Electronics,2910.0,46.0,3.0,Would not recommend,2023-08-18
+231,Electronics,668.0,40.0,1.0,Fast delivery,2023-08-19
+232,Clothing,,35.0,3.0,Excellent product!,2023-08-20
+233,Electronics,446.0,31.0,4.0,Fast delivery,2023-08-21
+234,Books,507.0,34.0,3.0,Would not recommend,2023-08-22
+235,Home Decor,4328.0,19.0,2.0,Not as expected,2023-08-23
+236,Beauty,3853.0,48.0,5.0,Not as expected,2023-08-24
+237,Electronics,,,4.0,nan,2023-08-25
+238,Clothing,205.0,49.0,4.0,Excellent product!,2023-08-26
+239,Books,2318.0,45.0,2.0,Value for money,2023-08-27
+240,Books,3899.0,58.0,2.0,nan,2023-08-28
+241,Clothing,4457.0,25.0,2.0,Excellent product!,2023-08-29
+242,Home Decor,4013.0,59.0,4.0,Fast delivery,2023-08-30
+243,Books,593.0,58.0,2.0,Value for money,2023-08-31
+244,Electronics,3968.0,57.0,4.0,Value for money,2023-09-01
+245,Books,4485.0,56.0,5.0,Excellent product!,2023-09-02
+246,Clothing,3434.0,39.0,3.0,Fast delivery,2023-09-03
+247,Beauty,4020.0,41.0,3.0,Fast delivery,2023-09-04
+248,Home Decor,,55.0,4.0,Value for money,2023-09-05
+249,Electronics,1538.0,19.0,5.0,Fast delivery,2023-09-06
+250,Home Decor,1452.0,58.0,4.0,Fast delivery,2023-09-07
+251,,144.0,58.0,1.0,Would not recommend,2023-09-08
+252,Books,2480.0,36.0,2.0,Would not recommend,2023-09-09
+253,Clothing,4660.0,58.0,4.0,Excellent product!,2023-09-10
+254,Home Decor,299.0,19.0,,Not as expected,2023-09-11
+255,Home Decor,4524.0,45.0,2.0,Excellent product!,2023-09-12
+256,Electronics,2387.0,49.0,3.0,nan,2023-09-13
+257,Electronics,4993.0,36.0,4.0,Excellent product!,2023-09-14
+258,Home Decor,4897.0,33.0,2.0,nan,2023-09-15
+259,Home Decor,2730.0,47.0,4.0,Excellent product!,2023-09-16
+260,Electronics,2868.0,39.0,1.0,Fast delivery,2023-09-17
+261,Books,2507.0,31.0,4.0,Value for money,2023-09-18
+262,Home Decor,3891.0,69.0,4.0,Excellent product!,2023-09-19
+263,Clothing,3393.0,18.0,3.0,Value for money,2023-09-20
+264,Electronics,2946.0,62.0,4.0,Excellent product!,2023-09-21
+265,Books,3411.0,19.0,4.0,Fast delivery,2023-09-22
+266,Books,2651.0,39.0,5.0,Fast delivery,2023-09-23
+267,Books,1537.0,63.0,3.0,Excellent product!,2023-09-24
+268,Clothing,226.0,50.0,4.0,Fast delivery,2023-09-25
+269,Home Decor,1720.0,32.0,4.0,Would not recommend,2023-09-26
+270,Beauty,3419.0,67.0,3.0,Excellent product!,2023-09-27
+271,Clothing,581.0,58.0,4.0,Would not recommend,2023-09-28
+272,Clothing,4478.0,39.0,1.0,Value for money,2023-09-29
+273,Books,2221.0,57.0,2.0,Excellent product!,2023-09-30
+274,Electronics,3235.0,56.0,3.0,Would not recommend,2023-10-01
+275,Clothing,2920.0,58.0,2.0,Excellent product!,2023-10-02
+276,Electronics,2471.0,58.0,5.0,Value for money,2023-10-03
+277,Clothing,338.0,28.0,4.0,Excellent product!,2023-10-04
+278,Home Decor,1520.0,21.0,3.0,Fast delivery,2023-10-05
+279,Electronics,440.0,24.0,4.0,Would not recommend,2023-10-06
+280,Beauty,3450.0,,3.0,Excellent product!,2023-10-07
+281,Home Decor,3093.0,24.0,3.0,nan,2023-10-08
+282,Home Decor,1586.0,21.0,1.0,Excellent product!,2023-10-09
+283,Clothing,4657.0,29.0,3.0,Would not recommend,2023-10-10
+284,Books,4175.0,44.0,2.0,Excellent product!,2023-10-11
+285,Home Decor,4993.0,34.0,,Fast delivery,2023-10-12
+286,Books,832.0,37.0,3.0,Fast delivery,2023-10-13
+287,Beauty,3578.0,48.0,3.0,nan,2023-10-14
+288,Books,261.0,43.0,3.0,Excellent product!,2023-10-15
+289,Home Decor,2595.0,48.0,,Not as expected,2023-10-16
+290,Books,231.0,52.0,5.0,Value for money,
+291,Home Decor,1957.0,26.0,1.0,Value for money,2023-10-18
+292,Electronics,1342.0,22.0,4.0,Would not recommend,2023-10-19
+293,Electronics,3588.0,69.0,3.0,Value for money,2023-10-20
+294,Beauty,771.0,65.0,4.0,Not as expected,2023-10-21
+295,Clothing,604.0,25.0,3.0,Fast delivery,2023-10-22
+296,Beauty,2256.0,38.0,5.0,Excellent product!,2023-10-23
+297,Clothing,1361.0,33.0,2.0,Value for money,2023-10-24
+298,Home Decor,392.0,68.0,3.0,Would not recommend,2023-10-25
+299,Books,3750.0,33.0,5.0,Excellent product!,2023-10-26
+300,Electronics,4382.0,35.0,4.0,Would not recommend,2023-10-27
+301,Books,1159.0,,3.0,nan,2023-10-28
+302,Books,,,,Would not recommend,2023-10-29
+303,Home Decor,2895.0,35.0,4.0,Excellent product!,2023-10-30
+304,Home Decor,1301.0,31.0,,Excellent product!,2023-10-31
+305,Electronics,3413.0,65.0,3.0,Not as expected,2023-11-01
+306,Home Decor,2188.0,54.0,3.0,Excellent product!,2023-11-02
+307,Electronics,3528.0,57.0,3.0,Fast delivery,2023-11-03
+308,Clothing,2260.0,33.0,4.0,Would not recommend,2023-11-04
+309,Beauty,818.0,38.0,3.0,Not as expected,2023-11-05
+310,Home Decor,1946.0,18.0,1.0,Fast delivery,2023-11-06
+311,Books,977.0,28.0,4.0,Would not recommend,2023-11-07
+312,Home Decor,3367.0,28.0,2.0,Not as expected,2023-11-08
+313,Electronics,4597.0,19.0,5.0,Not as expected,2023-11-09
+314,Home Decor,163.0,49.0,5.0,nan,2023-11-10
+315,Books,2799.0,36.0,5.0,Fast delivery,
+316,Electronics,3033.0,22.0,4.0,Value for money,2023-11-12
+317,Beauty,472.0,20.0,2.0,Fast delivery,2023-11-13
+318,Home Decor,4127.0,45.0,3.0,Not as expected,2023-11-14
+319,Electronics,405.0,43.0,2.0,Fast delivery,2023-11-15
+320,Home Decor,2614.0,40.0,2.0,Excellent product!,2023-11-16
+321,Clothing,1031.0,47.0,4.0,Fast delivery,2023-11-17
+322,Clothing,2090.0,25.0,1.0,Fast delivery,2023-11-18
+323,Books,3756.0,53.0,5.0,Not as expected,2023-11-19
+324,Beauty,1515.0,46.0,,Would not recommend,2023-11-20
+325,Books,461.0,30.0,3.0,Would not recommend,2023-11-21
+326,Beauty,2868.0,42.0,3.0,Fast delivery,2023-11-22
+327,Beauty,815.0,39.0,3.0,Not as expected,2023-11-23
+328,Beauty,1745.0,63.0,4.0,Value for money,2023-11-24
+329,Electronics,642.0,50.0,4.0,Fast delivery,2023-11-25
+330,Home Decor,1647.0,54.0,2.0,Would not recommend,2023-11-26
+331,Electronics,2341.0,24.0,3.0,Not as expected,2023-11-27
+332,Home Decor,751.0,40.0,3.0,Fast delivery,2023-11-28
+333,Beauty,1150.0,23.0,5.0,Excellent product!,2023-11-29
+334,Electronics,4842.0,32.0,2.0,Would not recommend,2023-11-30
+335,Books,1952.0,32.0,1.0,Excellent product!,2023-12-01
+336,Books,3101.0,57.0,4.0,nan,2023-12-02
+337,Electronics,3184.0,51.0,4.0,Value for money,2023-12-03
+338,Clothing,2196.0,31.0,4.0,Not as expected,2023-12-04
+339,Home Decor,902.0,46.0,3.0,Value for money,2023-12-05
+340,Electronics,2754.0,33.0,4.0,Value for money,2023-12-06
+341,Home Decor,,46.0,3.0,Not as expected,2023-12-07
+342,Home Decor,,40.0,1.0,Excellent product!,2023-12-08
+343,Home Decor,3622.0,27.0,3.0,Would not recommend,2023-12-09
+344,Electronics,2157.0,64.0,1.0,Not as expected,
+345,Home Decor,2821.0,21.0,3.0,Value for money,2023-12-11
+346,Electronics,4921.0,29.0,5.0,Value for money,2023-12-12
+347,Beauty,,59.0,3.0,Fast delivery,2023-12-13
+348,Clothing,3712.0,51.0,5.0,Would not recommend,2023-12-14
+349,Beauty,302.0,21.0,2.0,Excellent product!,2023-12-15
+350,Books,1041.0,37.0,3.0,Fast delivery,
+351,Books,688.0,45.0,4.0,Fast delivery,2023-12-17
+352,Clothing,670.0,45.0,4.0,Value for money,2023-12-18
+353,Clothing,3104.0,23.0,3.0,Fast delivery,2023-12-19
+354,Home Decor,295.0,31.0,,Value for money,2023-12-20
+355,Electronics,1445.0,52.0,1.0,Value for money,2023-12-21
+356,Beauty,517.0,64.0,5.0,Not as expected,2023-12-22
+357,Clothing,1742.0,18.0,2.0,Would not recommend,2023-12-23
+358,,1465.0,36.0,4.0,Excellent product!,2023-12-24
+359,Books,108.0,18.0,3.0,Excellent product!,2023-12-25
+360,Electronics,631.0,30.0,4.0,Excellent product!,2023-12-26
+361,Books,4344.0,25.0,,Not as expected,2023-12-27
+362,Clothing,1652.0,35.0,2.0,Not as expected,2023-12-28
+363,Clothing,1135.0,52.0,5.0,Value for money,2023-12-29
+364,Clothing,4671.0,40.0,2.0,nan,2023-12-30
+365,Beauty,1717.0,67.0,,Fast delivery,2023-12-31
+366,Home Decor,3816.0,69.0,4.0,Not as expected,2024-01-01
+367,Books,1176.0,43.0,,Not as expected,2024-01-02
+368,Clothing,4401.0,58.0,2.0,Excellent product!,2024-01-03
+369,Home Decor,4115.0,55.0,3.0,Not as expected,2024-01-04
+370,Clothing,3062.0,37.0,4.0,Excellent product!,2024-01-05
+371,Clothing,4940.0,19.0,2.0,Value for money,2024-01-06
+372,Clothing,1012.0,43.0,3.0,Would not recommend,2024-01-07
+373,Home Decor,4249.0,53.0,4.0,Excellent product!,2024-01-08
+374,Books,4170.0,42.0,4.0,Not as expected,2024-01-09
+375,Clothing,3661.0,47.0,5.0,Excellent product!,
+376,,443.0,35.0,4.0,Fast delivery,2024-01-11
+377,Electronics,1292.0,24.0,4.0,Would not recommend,2024-01-12
+378,Home Decor,2032.0,44.0,,Excellent product!,2024-01-13
+379,Electronics,802.0,28.0,2.0,Not as expected,2024-01-14
+380,Electronics,1998.0,54.0,4.0,Fast delivery,2024-01-15
+381,Beauty,3693.0,25.0,5.0,Not as expected,2024-01-16
+382,Beauty,298.0,28.0,4.0,Value for money,2024-01-17
+383,Books,3332.0,41.0,1.0,Not as expected,2024-01-18
+384,Beauty,2922.0,47.0,3.0,Value for money,2024-01-19
+385,Beauty,4584.0,47.0,4.0,Fast delivery,2024-01-20
+386,Books,573.0,69.0,4.0,Fast delivery,2024-01-21
+387,Beauty,4960.0,69.0,4.0,Would not recommend,2024-01-22
+388,Clothing,1754.0,32.0,3.0,Not as expected,2024-01-23
+389,Home Decor,691.0,52.0,2.0,Value for money,2024-01-24
+390,Books,1948.0,56.0,5.0,Not as expected,2024-01-25
+391,Electronics,3141.0,41.0,4.0,Fast delivery,2024-01-26
+392,Beauty,267.0,25.0,2.0,Would not recommend,2024-01-27
+393,Electronics,4479.0,60.0,3.0,Not as expected,2024-01-28
+394,Beauty,3370.0,59.0,5.0,Excellent product!,2024-01-29
+395,Clothing,4107.0,37.0,4.0,Value for money,2024-01-30
+396,Clothing,4110.0,58.0,3.0,Fast delivery,2024-01-31
+397,Electronics,3948.0,64.0,,Value for money,2024-02-01
+398,Beauty,2281.0,43.0,1.0,Excellent product!,2024-02-02
+399,Electronics,1754.0,69.0,2.0,Excellent product!,2024-02-03
+400,Books,,41.0,4.0,Not as expected,2024-02-04
+401,Books,932.0,39.0,3.0,Fast delivery,2024-02-05
+402,Clothing,1121.0,22.0,4.0,Fast delivery,2024-02-06
+403,,2093.0,32.0,4.0,Fast delivery,2024-02-07
+404,Electronics,3592.0,53.0,1.0,Would not recommend,2024-02-08
+405,Books,994.0,54.0,2.0,Value for money,2024-02-09
+406,Home Decor,1615.0,46.0,3.0,Value for money,2024-02-10
+407,Clothing,3770.0,32.0,2.0,Value for money,2024-02-11
+408,Electronics,388.0,44.0,1.0,Would not recommend,2024-02-12
+409,Books,1176.0,66.0,4.0,Not as expected,2024-02-13
+410,Beauty,1471.0,25.0,4.0,Would not recommend,2024-02-14
+411,Electronics,1174.0,46.0,4.0,Excellent product!,2024-02-15
+412,Electronics,3059.0,36.0,4.0,Not as expected,2024-02-16
+413,,139.0,48.0,4.0,Fast delivery,2024-02-17
+414,Electronics,4374.0,26.0,4.0,Fast delivery,2024-02-18
+415,Home Decor,3722.0,27.0,2.0,Value for money,2024-02-19
+416,Home Decor,282.0,54.0,5.0,Excellent product!,2024-02-20
+417,Clothing,,,2.0,Fast delivery,2024-02-21
+418,Books,1869.0,50.0,2.0,Would not recommend,2024-02-22
+419,Beauty,4900.0,42.0,2.0,Not as expected,2024-02-23
+420,Home Decor,596.0,21.0,5.0,Value for money,2024-02-24
+421,Books,696.0,22.0,5.0,Not as expected,2024-02-25
+422,Books,2608.0,40.0,4.0,Value for money,2024-02-26
+423,Home Decor,3926.0,56.0,4.0,Fast delivery,2024-02-27
+424,Electronics,,22.0,3.0,Excellent product!,2024-02-28
+425,Books,784.0,69.0,5.0,nan,2024-02-29
+426,Clothing,418.0,25.0,4.0,nan,2024-03-01
+427,Clothing,3726.0,34.0,5.0,Not as expected,2024-03-02
+428,Beauty,1535.0,18.0,3.0,Excellent product!,2024-03-03
+429,Books,2503.0,67.0,3.0,Excellent product!,2024-03-04
+430,,2764.0,29.0,4.0,Excellent product!,2024-03-05
+431,Clothing,4424.0,52.0,,Excellent product!,2024-03-06
+432,Beauty,828.0,69.0,5.0,Not as expected,2024-03-07
+433,Books,1387.0,31.0,3.0,Excellent product!,2024-03-08
+434,,4101.0,65.0,5.0,Value for money,2024-03-09
+435,Beauty,660.0,35.0,3.0,Value for money,2024-03-10
+436,,1475.0,27.0,4.0,Excellent product!,2024-03-11
+437,,1565.0,32.0,3.0,Value for money,2024-03-12
+438,Electronics,2606.0,59.0,4.0,Fast delivery,2024-03-13
+439,Books,3986.0,50.0,3.0,Fast delivery,2024-03-14
+440,Clothing,124.0,36.0,5.0,Excellent product!,2024-03-15
+441,Books,1254.0,51.0,4.0,Would not recommend,2024-03-16
+442,,4565.0,62.0,2.0,Not as expected,2024-03-17
+443,Electronics,1559.0,42.0,5.0,Excellent product!,2024-03-18
+444,Home Decor,4806.0,33.0,2.0,Not as expected,2024-03-19
+445,Books,,25.0,3.0,Not as expected,2024-03-20
+446,Clothing,2256.0,52.0,2.0,Value for money,2024-03-21
+447,Clothing,,38.0,4.0,Would not recommend,2024-03-22
+448,Electronics,819.0,36.0,2.0,Would not recommend,2024-03-23
+449,Electronics,1205.0,63.0,2.0,Excellent product!,2024-03-24
+450,Books,3869.0,28.0,5.0,Not as expected,2024-03-25
+451,Home Decor,2579.0,61.0,4.0,Not as expected,2024-03-26
+452,Electronics,2020.0,28.0,2.0,Not as expected,2024-03-27
+453,,3179.0,28.0,4.0,Fast delivery,2024-03-28
+454,Books,4831.0,39.0,5.0,Would not recommend,2024-03-29
+455,Home Decor,3269.0,38.0,1.0,Fast delivery,2024-03-30
+456,Clothing,3272.0,,4.0,Would not recommend,2024-03-31
+457,Books,3430.0,35.0,,Not as expected,2024-04-01
+458,Clothing,4551.0,59.0,4.0,Not as expected,2024-04-02
+459,Books,2158.0,65.0,3.0,Value for money,2024-04-03
+460,Books,3421.0,57.0,4.0,Not as expected,2024-04-04
+461,Electronics,1970.0,55.0,1.0,Fast delivery,2024-04-05
+462,Beauty,3721.0,47.0,,Value for money,2024-04-06
+463,Home Decor,1245.0,68.0,1.0,Not as expected,2024-04-07
+464,Clothing,4091.0,62.0,3.0,Would not recommend,2024-04-08
+465,,3473.0,64.0,2.0,Fast delivery,2024-04-09
+466,Home Decor,224.0,62.0,4.0,Not as expected,2024-04-10
+467,Books,411.0,50.0,3.0,Would not recommend,2024-04-11
+468,Books,874.0,38.0,3.0,Excellent product!,2024-04-12
+469,Electronics,3020.0,19.0,3.0,Value for money,2024-04-13
+470,,1931.0,30.0,4.0,Excellent product!,2024-04-14
+471,Home Decor,793.0,19.0,3.0,Excellent product!,2024-04-15
+472,Clothing,1476.0,60.0,4.0,Value for money,2024-04-16
+473,Beauty,1089.0,62.0,1.0,Not as expected,2024-04-17
+474,Home Decor,2946.0,48.0,2.0,Would not recommend,2024-04-18
+475,Books,1852.0,27.0,3.0,Fast delivery,2024-04-19
+476,Beauty,3059.0,40.0,5.0,Excellent product!,2024-04-20
+477,Clothing,2553.0,39.0,1.0,Would not recommend,2024-04-21
+478,Electronics,3143.0,64.0,1.0,Value for money,2024-04-22
+479,Electronics,1816.0,,2.0,Excellent product!,2024-04-23
+480,Beauty,1726.0,50.0,4.0,Would not recommend,2024-04-24
+481,Clothing,3188.0,48.0,3.0,Value for money,2024-04-25
+482,Clothing,3431.0,31.0,4.0,Value for money,2024-04-26
+483,Clothing,4128.0,,1.0,Fast delivery,2024-04-27
+484,Clothing,989.0,35.0,2.0,Value for money,2024-04-28
+485,Books,,28.0,3.0,Fast delivery,2024-04-29
+486,,4684.0,,4.0,Value for money,2024-04-30
+487,Clothing,4375.0,64.0,4.0,Excellent product!,2024-05-01
+488,Home Decor,1807.0,20.0,2.0,Value for money,2024-05-02
+489,Books,2464.0,19.0,5.0,Excellent product!,2024-05-03
+490,Home Decor,331.0,25.0,3.0,Value for money,2024-05-04
+491,Beauty,1912.0,48.0,4.0,Would not recommend,2024-05-05
+492,Home Decor,1712.0,25.0,3.0,Value for money,2024-05-06
+493,Clothing,4526.0,60.0,2.0,Excellent product!,2024-05-07
+494,,4756.0,65.0,4.0,Value for money,2024-05-08
+495,Home Decor,3096.0,19.0,4.0,Excellent product!,
+496,Clothing,347.0,39.0,3.0,Would not recommend,2024-05-10
+497,Electronics,4478.0,22.0,,Would not recommend,2024-05-11
+498,,2179.0,24.0,,Fast delivery,2024-05-12
+499,Books,3841.0,37.0,4.0,Excellent product!,2024-05-13
+500,Home Decor,4725.0,45.0,3.0,Value for money,2024-05-14
+46,Home Decor,2965.0,41.0,4.0,Not as expected,2023-02-15
+109,Home Decor,384.0,56.0,1.0,Excellent product!,2023-04-19
+52,Electronics,2434.0,26.0,3.0,Value for money,2023-02-21
+281,Home Decor,3093.0,24.0,3.0,nan,2023-10-08
+461,Electronics,1970.0,55.0,1.0,Fast delivery,2024-04-05
