@@ -1,0 +1,19 @@
+#### **Overview of Pima Indian diabetes dataset**
+
+-Preg	Number of times pregnant	Numeric	[0, 17]
+
+-Gluc	Plasma glucose concentration at 2 Hours in an oral glucose tolerance test (GTIT)	Numeric	[0, 199]
+
+-BP	Diastolic Blood Pressure (mm Hg)	Numeric	[0, 122]
+
+-Skin	Triceps skin fold thickness (mm)	Numeric	[0, 99]
+
+-Insulin	2-Hour Serum insulin (µh/ml)	Numeric	[0, 846]
+
+-BMI	Body mass index [weight in kg/(Height in m)]	Numeric	[0, 67.1]
+
+-DPF	Diabetes pedigree function	Numeric	[0.078, 2.42]
+
+-Age	Age (years)	Numeric	[21, 81]
+
+-Outcome	Binary value indicating non-diabetic /diabetic	Factor	[0,1]
